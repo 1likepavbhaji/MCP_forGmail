@@ -74,7 +74,6 @@ SCOPES = [
 }
 
 🔐 Authentication
-
 This project uses Google OAuth2.
 
 credentials.json → required (from Google Cloud)
