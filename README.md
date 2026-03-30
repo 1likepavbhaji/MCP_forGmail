@@ -1,4 +1,4 @@
-📧 Gmail MCP Server (Python)
+#📧 Gmail MCP Server (Python)
 
 A lightweight Model Context Protocol (MCP) server built in Python that integrates with Gmail API to:
 
