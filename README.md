@@ -62,3 +62,20 @@ SCOPES = [
     "https://www.googleapis.com/auth/gmail.readonly",
     "https://www.googleapis.com/auth/gmail.send"
 ]
+
+🔌 MCP Config (Claude)
+{
+  "mcpServers": {
+    "gmail": {
+      "command": "python",
+      "args": ["emailshty.py"]
+    }
+  }
+}
+
+🔐 Authentication
+
+This project uses Google OAuth2.
+
+credentials.json → required (from Google Cloud)
+token.json → generated locally after login
