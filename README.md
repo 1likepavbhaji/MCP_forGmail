@@ -2,10 +2,10 @@
 
 A lightweight Model Context Protocol (MCP) server built in Python that integrates with Gmail API to:
 
-📥 Read emails
-🧾 Summarize emails
-📤 Send emails
-👤 Fetch profile overview
+📥 Read emails  
+🧾 Summarize emails  
+📤 Send emails  
+👤 Fetch profile overview  
 
 Designed to be used with LLM clients like Claude for natural language interaction with your inbox.
 
